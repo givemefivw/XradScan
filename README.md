@@ -6,7 +6,7 @@ XradScan自述文档
 
 XradScan即是将xray和rad联动，启动xray监听端口，利用http-proxy将rad扫描带入xray，实现联动。
 
-![img](/image.png)
+![img](./image.png)
 
 # Who Use XradScan
 
