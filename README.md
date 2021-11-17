@@ -47,6 +47,8 @@ optional arguments:
 
 很简单，只有一个参数，将目标网址写进txt文件里就可以开始扫描了。
 
+![](./use.gif)
+
 # Installation
 
 ```JavaScript
