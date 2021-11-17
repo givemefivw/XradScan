@@ -52,7 +52,7 @@ optional arguments:
 # Installation
 
 ```JavaScript
-git clone 
+git clone https://github.com/givemefivw/XradScan.git
 cd XradScan
 python3 XradScan.py -f url.txt
 ```
